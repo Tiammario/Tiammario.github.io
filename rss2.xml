@@ -3,14 +3,37 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>XWJAY</title>
+    <title>马里奥の小屋</title>
     <link>https://tiammario.github.io/</link>
     
     <atom:link href="https://tiammario.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>自以为惊叹的桥段终沦为老生常谈，给予你全部的病入膏肓一般</description>
-    <pubDate>Thu, 27 Jan 2022 16:39:38 GMT</pubDate>
+    <pubDate>Tue, 18 Oct 2022 08:07:43 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title></title>
+      <link>https://tiammario.github.io/2022/10/18/firstPsg/</link>
+      <guid>https://tiammario.github.io/2022/10/18/firstPsg/</guid>
+      <pubDate>Tue, 18 Oct 2022 08:08:07 GMT</pubDate>
+      
+        
+        
+      <description>&lt;hr&gt;
+&lt;h2 id=&quot;title：-这是测试文章&quot;&gt;&lt;a href=&quot;#title：-这是测试文章&quot; class=&quot;headerlink&quot; title=&quot;title： 这是测试文章&quot;&gt;&lt;/a&gt;title： 这是测试文章&lt;/h2&gt;&lt;p&gt;今天是2022年10月18日，记录写下第一</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<hr><h2 id="title：-这是测试文章"><a href="#title：-这是测试文章" class="headerlink" title="title： 这是测试文章"></a>title： 这是测试文章</h2><p>今天是2022年10月18日，记录写下第一段文字，记录在个人博客的内容</p><h2 id="在浙江理工大学图书馆"><a href="#在浙江理工大学图书馆" class="headerlink" title="在浙江理工大学图书馆"></a>在浙江理工大学图书馆</h2><p>  多云天气   19°天 </p><h3 id="下午四点"><a href="#下午四点" class="headerlink" title="下午四点"></a>下午四点</h3><p>哈哈哈用markdown格式写下</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://tiammario.github.io/2022/10/18/firstPsg/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
