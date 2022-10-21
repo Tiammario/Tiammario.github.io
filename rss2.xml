@@ -9,8 +9,31 @@
     <atom:link href="https://tiammario.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>自以为惊叹的桥段终沦为老生常谈，给予你全部的病入膏肓一般</description>
-    <pubDate>Tue, 18 Oct 2022 08:42:52 GMT</pubDate>
+    <pubDate>Fri, 21 Oct 2022 12:05:53 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title></title>
+      <link>https://tiammario.github.io/2022/10/21/mistakeC/</link>
+      <guid>https://tiammario.github.io/2022/10/21/mistakeC/</guid>
+      <pubDate>Fri, 21 Oct 2022 11:57:54 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;算法题刷题01-错题起步&quot;&gt;&lt;a href=&quot;#算法题刷题01-错题起步&quot; class=&quot;headerlink&quot; title=&quot;算法题刷题01 错题起步&quot;&gt;&lt;/a&gt;算法题刷题01 错题起步&lt;/h1&gt;&lt;p&gt;##20221021&lt;br&gt;###记录错题01&lt;/p&gt;
+&lt;h</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="算法题刷题01-错题起步"><a href="#算法题刷题01-错题起步" class="headerlink" title="算法题刷题01 错题起步"></a>算法题刷题01 错题起步</h1><p>##20221021<br>###记录错题01</p><hr><p>###解析<br>首先对二维数组的声明定义不清楚，如选项A char b[2][3] 是声明了1个含有2个字符串，每个字符串长度不超过3的数组。而选项中{“a”,”b”,”c”}; 其实已经是3个一维数组了，已经是不符合声明的定义了。</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://tiammario.github.io/2022/10/21/mistakeC/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>这是测试文章</title>
