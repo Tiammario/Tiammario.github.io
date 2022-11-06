@@ -9,7 +9,7 @@
     <atom:link href="https://tiammario.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>自以为惊叹的桥段终沦为老生常谈，给予你全部的病入膏肓一般</description>
-    <pubDate>Sun, 06 Nov 2022 14:26:24 GMT</pubDate>
+    <pubDate>Sun, 06 Nov 2022 14:27:59 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,13 +20,12 @@
       
         
         
-      <description>&lt;p&gt;#写一篇博客上传：&lt;/p&gt;
-&lt;h2 id=&quot;hexo-new-newBlogName-创建一个博文MarkDown文件&quot;&gt;&lt;a href=&quot;#hexo-new-newBlogName-创建一个博文MarkDown文件&quot; class=&quot;headerlink&quot; title=&quot;h</description>
+      <description>&lt;h1 id=&quot;写一篇博客上传：&quot;&gt;&lt;a href=&quot;#写一篇博客上传：&quot; class=&quot;headerlink&quot; title=&quot;写一篇博客上传：&quot;&gt;&lt;/a&gt;写一篇博客上传：&lt;/h1&gt;&lt;h2 id=&quot;hexo-new-newBlogName&quot;&gt;&lt;a href=&quot;#hexo-new-</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>#写一篇博客上传：</p><h2 id="hexo-new-newBlogName-创建一个博文MarkDown文件"><a href="#hexo-new-newBlogName-创建一个博文MarkDown文件" class="headerlink" title="hexo new newBlogName  创建一个博文MarkDown文件"></a>hexo new newBlogName  <em>创建一个博文MarkDown文件</em></h2><p>##用MarkDown 打开文件 之后编辑</p><p>##hexo g     <em>相当于 hexo generate 将已经完成的文章生成对应的主题格式 生成静态博客</em></p><p>##hexo s     <em>相当于 hexo server 用于本地预览 预览网址<a href="http://localhost:4000/">http://localhost:4000/</a></em></p><h2 id="hexo-d-相当于-hexo-deploy-将生成的静态博客上传到github"><a href="#hexo-d-相当于-hexo-deploy-将生成的静态博客上传到github" class="headerlink" title="hexo d    *相当于 hexo deploy 将生成的静态博客上传到github *"></a>hexo d    *相当于 hexo deploy 将生成的静态博客上传到github *</h2><h2 id="hexo-clean-删除已经生成的静态页面-如果遇到一些-资源不对或者其他问题时-，可是尝试清楚生成的静态文件"><a href="#hexo-clean-删除已经生成的静态页面-如果遇到一些-资源不对或者其他问题时-，可是尝试清楚生成的静态文件" class="headerlink" title="$ hexo clean #删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件"></a>$ hexo clean #删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件</h2>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="写一篇博客上传："><a href="#写一篇博客上传：" class="headerlink" title="写一篇博客上传："></a>写一篇博客上传：</h1><h2 id="hexo-new-newBlogName"><a href="#hexo-new-newBlogName" class="headerlink" title="hexo new newBlogName"></a>hexo new newBlogName</h2><p><em>创建一个博文MarkDown文件</em></p><h2 id="用MarkDown-打开文件-之后编辑"><a href="#用MarkDown-打开文件-之后编辑" class="headerlink" title="用MarkDown 打开文件 之后编辑"></a>用MarkDown 打开文件 之后编辑</h2><h2 id="hexo-g"><a href="#hexo-g" class="headerlink" title="hexo g"></a>hexo g</h2><p> <em>相当于 hexo generate 将已经完成的文章生成对应的主题格式 生成静态博客</em></p><h2 id="hexo-s"><a href="#hexo-s" class="headerlink" title="hexo s"></a>hexo s</h2><p><em>相当于 hexo server 用于本地预览 预览网址<a href="http://localhost:4000/">http://localhost:4000/</a></em></p><h2 id="hexo-d"><a href="#hexo-d" class="headerlink" title="hexo d"></a>hexo d</h2><p> *相当于 hexo deploy 将生成的静态博客上传到github *</p><h2 id="hexo-clean"><a href="#hexo-clean" class="headerlink" title="$ hexo clean"></a>$ hexo clean</h2><p>删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件</p>]]></content:encoded>
       
       
       
@@ -135,7 +134,7 @@
       <title>这是测试文章</title>
       <link>https://tiammario.github.io/2022/10/18/firstPsg/</link>
       <guid>https://tiammario.github.io/2022/10/18/firstPsg/</guid>
-      <pubDate>Tue, 18 Oct 2022 08:08:07 GMT</pubDate>
+      <pubDate>Tue, 18 Oct 2022 07:18:14 GMT</pubDate>
       
         
         
@@ -148,6 +147,8 @@
       <content:encoded><![CDATA[<p>今天是2022年10月18日，记录写下第一段文字，记录在个人博客的内容</p><h2 id="在浙江理工大学图书馆"><a href="#在浙江理工大学图书馆" class="headerlink" title="在浙江理工大学图书馆"></a>在浙江理工大学图书馆</h2><p>  多云天气   19°天 </p><h3 id="下午四点"><a href="#下午四点" class="headerlink" title="下午四点"></a>下午四点</h3><p>哈哈哈用markdown格式写下</p>]]></content:encoded>
       
       
+      
+      <category domain="https://tiammario.github.io/tags/preface/">preface</category>
       
       
       <comments>https://tiammario.github.io/2022/10/18/firstPsg/#disqus_thread</comments>
