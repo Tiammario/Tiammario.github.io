@@ -21,19 +21,20 @@
     var CONFIG = {"hostname":"tiammario.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":true,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"manual","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="##20221021###记录错题01  ###解析首先对二维数组的声明定义不清楚，如选项A char b[2][3] 是声明了1个含有2个字符串，每个字符串长度不超过3的数组。而选项中{“a”,”b”,”c”}; 其实已经是3个一维数组了，已经是不符合声明的定义了。">
+  <meta name="description" content="#写一篇博客上传： hexo new newBlogName  创建一个博文MarkDown文件##用MarkDown 打开文件 之后编辑 ##hexo g     相当于 hexo generate 将已经完成的文章生成对应的主题格式 生成静态博客 ##hexo s     相当于 hexo server 用于本地预览 预览网址http:&#x2F;&#x2F;localhost:4000&#x2F; hexo d    *">
 <meta property="og:type" content="article">
-<meta property="og:title" content="算法题刷题01 错题起步">
-<meta property="og:url" content="https://tiammario.github.io/2022/10/21/mistakeC/index.html">
+<meta property="og:title" content="uploadWay">
+<meta property="og:url" content="https://tiammario.github.io/2022/11/06/uploadWay/index.html">
 <meta property="og:site_name" content="马里奥の小屋">
-<meta property="og:description" content="##20221021###记录错题01  ###解析首先对二维数组的声明定义不清楚，如选项A char b[2][3] 是声明了1个含有2个字符串，每个字符串长度不超过3的数组。而选项中{“a”,”b”,”c”}; 其实已经是3个一维数组了，已经是不符合声明的定义了。">
+<meta property="og:description" content="#写一篇博客上传： hexo new newBlogName  创建一个博文MarkDown文件##用MarkDown 打开文件 之后编辑 ##hexo g     相当于 hexo generate 将已经完成的文章生成对应的主题格式 生成静态博客 ##hexo s     相当于 hexo server 用于本地预览 预览网址http:&#x2F;&#x2F;localhost:4000&#x2F; hexo d    *">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2022-10-21T11:57:54.873Z">
-<meta property="article:modified_time" content="2022-10-21T12:13:38.932Z">
+<meta property="article:published_time" content="2022-11-06T14:18:14.000Z">
+<meta property="article:modified_time" content="2022-11-06T14:26:24.094Z">
 <meta property="article:author" content="马里奥">
+<meta property="article:tag" content="preface">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://tiammario.github.io/2022/10/21/mistakeC/">
+<link rel="canonical" href="https://tiammario.github.io/2022/11/06/uploadWay/">
 
 
 <script id="page-configurations">
@@ -46,7 +47,7 @@
   };
 </script>
 
-  <title>算法题刷题01 错题起步 | 马里奥の小屋</title>
+  <title>uploadWay | 马里奥の小屋</title>
   
 
 
@@ -203,7 +204,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://tiammario.github.io/2022/10/21/mistakeC/">
+    <link itemprop="mainEntityOfPage" href="https://tiammario.github.io/2022/11/06/uploadWay/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.png">
@@ -216,7 +217,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          算法题刷题01 错题起步
+          uploadWay
         </h1>
 
         <div class="post-meta">
@@ -229,7 +230,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2022-10-21 19:57:54 / 修改时间：20:13:38" itemprop="dateCreated datePublished" datetime="2022-10-21T19:57:54+08:00">2022-10-21</time>
+              <time title="创建时间：2022-11-06 22:18:14 / 修改时间：22:26:24" itemprop="dateCreated datePublished" datetime="2022-11-06T22:18:14+08:00">2022-11-06</time>
             </span>
 
           
@@ -245,7 +246,7 @@
                 <i class="far fa-file-word"></i>
               </span>
                 <span class="post-meta-item-text">本文字数：</span>
-              <span>128</span>
+              <span>249</span>
             </span>
             <span class="post-meta-item" title="阅读时长">
               <span class="post-meta-item-icon">
@@ -264,10 +265,11 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>##20221021<br>###记录错题01</p>
-<hr>
-<p>###解析<br>首先对二维数组的声明定义不清楚，如选项A char b[2][3] 是声明了1个含有2个字符串，每个字符串长度不超过3的数组。而选项中{“a”,”b”,”c”}; 其实已经是3个一维数组了，已经是不符合声明的定义了。</p>
-
+        <p>#写一篇博客上传：</p>
+<h2 id="hexo-new-newBlogName-创建一个博文MarkDown文件"><a href="#hexo-new-newBlogName-创建一个博文MarkDown文件" class="headerlink" title="hexo new newBlogName  创建一个博文MarkDown文件"></a>hexo new newBlogName  <em>创建一个博文MarkDown文件</em></h2><p>##用MarkDown 打开文件 之后编辑</p>
+<p>##hexo g     <em>相当于 hexo generate 将已经完成的文章生成对应的主题格式 生成静态博客</em></p>
+<p>##hexo s     <em>相当于 hexo server 用于本地预览 预览网址<a target="_blank" rel="noopener" href="http://localhost:4000/">http://localhost:4000/</a></em></p>
+<h2 id="hexo-d-相当于-hexo-deploy-将生成的静态博客上传到github"><a href="#hexo-d-相当于-hexo-deploy-将生成的静态博客上传到github" class="headerlink" title="hexo d    *相当于 hexo deploy 将生成的静态博客上传到github *"></a>hexo d    *相当于 hexo deploy 将生成的静态博客上传到github *</h2><h2 id="hexo-clean-删除已经生成的静态页面-如果遇到一些-资源不对或者其他问题时-，可是尝试清楚生成的静态文件"><a href="#hexo-clean-删除已经生成的静态页面-如果遇到一些-资源不对或者其他问题时-，可是尝试清楚生成的静态文件" class="headerlink" title="$ hexo clean #删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件"></a>$ hexo clean #删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件</h2>
     </div>
 
     
@@ -302,7 +304,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="https://tiammario.github.io/2022/10/21/mistakeC/" title="算法题刷题01 错题起步">https://tiammario.github.io/2022/10/21/mistakeC/</a>
+    <a href="https://tiammario.github.io/2022/11/06/uploadWay/" title="uploadWay">https://tiammario.github.io/2022/11/06/uploadWay/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
@@ -341,6 +343,9 @@
 
 
       <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/preface/" rel="tag"># preface</a>
+          </div>
 
         
 
@@ -348,13 +353,10 @@
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/2022/10/18/firstPsg/" rel="prev" title="这是测试文章">
-      <i class="fa fa-chevron-left"></i> 这是测试文章
+    <a href="/2022/11/06/Record1106N/" rel="prev" title="一直学习">
+      <i class="fa fa-chevron-left"></i> 一直学习
     </a></div>
-      <div class="post-nav-item">
-    <a href="/2022/11/03/20221103/" rel="next" title="在刷题过程中遇到的一些学习问题">
-      在刷题过程中遇到的一些学习问题 <i class="fa fa-chevron-right"></i>
-    </a></div>
+      <div class="post-nav-item"></div>
     </div>
       </footer>
     
@@ -428,6 +430,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#hexo-new-newBlogName-%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8D%9A%E6%96%87MarkDown%E6%96%87%E4%BB%B6"><span class="nav-number">1.</span> <span class="nav-text">hexo new newBlogName  创建一个博文MarkDown文件</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#hexo-d-%E7%9B%B8%E5%BD%93%E4%BA%8E-hexo-deploy-%E5%B0%86%E7%94%9F%E6%88%90%E7%9A%84%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E4%B8%8A%E4%BC%A0%E5%88%B0github"><span class="nav-number">2.</span> <span class="nav-text">hexo d    *相当于 hexo deploy 将生成的静态博客上传到github *</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#hexo-clean-%E5%88%A0%E9%99%A4%E5%B7%B2%E7%BB%8F%E7%94%9F%E6%88%90%E7%9A%84%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2-%E5%A6%82%E6%9E%9C%E9%81%87%E5%88%B0%E4%B8%80%E4%BA%9B-%E8%B5%84%E6%BA%90%E4%B8%8D%E5%AF%B9%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E9%97%AE%E9%A2%98%E6%97%B6-%EF%BC%8C%E5%8F%AF%E6%98%AF%E5%B0%9D%E8%AF%95%E6%B8%85%E6%A5%9A%E7%94%9F%E6%88%90%E7%9A%84%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6"><span class="nav-number">3.</span> <span class="nav-text">$ hexo clean #删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 

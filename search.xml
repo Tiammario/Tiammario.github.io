@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>uploadWay</title>
+      <link href="/2022/11/06/uploadWay/"/>
+      <url>/2022/11/06/uploadWay/</url>
+      
+        <content type="html"><![CDATA[<p>#写一篇博客上传：</p><h2 id="hexo-new-newBlogName-创建一个博文MarkDown文件"><a href="#hexo-new-newBlogName-创建一个博文MarkDown文件" class="headerlink" title="hexo new newBlogName  创建一个博文MarkDown文件"></a>hexo new newBlogName  <em>创建一个博文MarkDown文件</em></h2><p>##用MarkDown 打开文件 之后编辑</p><p>##hexo g     <em>相当于 hexo generate 将已经完成的文章生成对应的主题格式 生成静态博客</em></p><p>##hexo s     <em>相当于 hexo server 用于本地预览 预览网址<a href="http://localhost:4000/">http://localhost:4000/</a></em></p><h2 id="hexo-d-相当于-hexo-deploy-将生成的静态博客上传到github"><a href="#hexo-d-相当于-hexo-deploy-将生成的静态博客上传到github" class="headerlink" title="hexo d    *相当于 hexo deploy 将生成的静态博客上传到github *"></a>hexo d    *相当于 hexo deploy 将生成的静态博客上传到github *</h2><h2 id="hexo-clean-删除已经生成的静态页面-如果遇到一些-资源不对或者其他问题时-，可是尝试清楚生成的静态文件"><a href="#hexo-clean-删除已经生成的静态页面-如果遇到一些-资源不对或者其他问题时-，可是尝试清楚生成的静态文件" class="headerlink" title="$ hexo clean #删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件"></a>$ hexo clean #删除已经生成的静态页面 如果遇到一些    资源不对或者其他问题时    ，可是尝试清楚生成的静态文件</h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> preface </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一直学习</title>
       <link href="/2022/11/06/Record1106N/"/>
       <url>/2022/11/06/Record1106N/</url>
