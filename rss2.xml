@@ -65,7 +65,7 @@
       <title>准备考一些证书</title>
       <link>https://tiammario.github.io/2022/11/06/20221106/</link>
       <guid>https://tiammario.github.io/2022/11/06/20221106/</guid>
-      <pubDate>Sun, 06 Nov 2022 06:37:33 GMT</pubDate>
+      <pubDate>Sun, 06 Nov 2022 07:18:14 GMT</pubDate>
       
         
         
@@ -79,6 +79,8 @@
       
       
       
+      <category domain="https://tiammario.github.io/tags/%E6%9C%AA%E6%9D%A5Future/">未来Future</category>
+      
       
       <comments>https://tiammario.github.io/2022/11/06/20221106/#disqus_thread</comments>
       
@@ -86,9 +88,9 @@
     
     <item>
       <title>在刷题过程中遇到的一些学习问题</title>
-      <link>https://tiammario.github.io/2022/11/03/20221103/</link>
-      <guid>https://tiammario.github.io/2022/11/03/20221103/</guid>
-      <pubDate>Thu, 03 Nov 2022 15:25:46 GMT</pubDate>
+      <link>https://tiammario.github.io/2022/10/21/20221103/</link>
+      <guid>https://tiammario.github.io/2022/10/21/20221103/</guid>
+      <pubDate>Fri, 21 Oct 2022 07:18:14 GMT</pubDate>
       
         
         
@@ -101,8 +103,10 @@
       
       
       
+      <category domain="https://tiammario.github.io/tags/%E9%94%99%E9%A2%98/">错题</category>
       
-      <comments>https://tiammario.github.io/2022/11/03/20221103/#disqus_thread</comments>
+      
+      <comments>https://tiammario.github.io/2022/10/21/20221103/#disqus_thread</comments>
       
     </item>
     
@@ -110,7 +114,7 @@
       <title>算法题刷题01 错题起步</title>
       <link>https://tiammario.github.io/2022/10/21/mistakeC/</link>
       <guid>https://tiammario.github.io/2022/10/21/mistakeC/</guid>
-      <pubDate>Fri, 21 Oct 2022 11:57:54 GMT</pubDate>
+      <pubDate>Fri, 21 Oct 2022 07:18:14 GMT</pubDate>
       
         
         
@@ -124,6 +128,8 @@
       <content:encoded><![CDATA[<p>##20221021<br>###记录错题01</p><hr><p>###解析<br>首先对二维数组的声明定义不清楚，如选项A char b[2][3] 是声明了1个含有2个字符串，每个字符串长度不超过3的数组。而选项中{“a”,”b”,”c”}; 其实已经是3个一维数组了，已经是不符合声明的定义了。</p>]]></content:encoded>
       
       
+      
+      <category domain="https://tiammario.github.io/tags/%E9%94%99%E9%A2%98/">错题</category>
       
       
       <comments>https://tiammario.github.io/2022/10/21/mistakeC/#disqus_thread</comments>
@@ -159,7 +165,7 @@
       <title>Hello World</title>
       <link>https://tiammario.github.io/2022/01/28/hello-world/</link>
       <guid>https://tiammario.github.io/2022/01/28/hello-world/</guid>
-      <pubDate>Thu, 27 Jan 2022 16:39:38 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 07:18:14 GMT</pubDate>
       
         
         
@@ -171,6 +177,8 @@
       <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><figcaption><span>$ hexo new "My New Post"</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line"></span><br><span class="line">More info: [Writing](https://hexo.io/docs/writing.html)</span><br><span class="line"></span><br><span class="line"><span class="comment">### Run server</span></span><br><span class="line"></span><br><span class="line">``` bash</span><br><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
       
       
+      
+      <category domain="https://tiammario.github.io/tags/preface/">preface</category>
       
       
       <comments>https://tiammario.github.io/2022/01/28/hello-world/#disqus_thread</comments>
